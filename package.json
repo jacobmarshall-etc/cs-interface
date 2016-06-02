@@ -1,0 +1,6 @@
+{
+  "name": "@jacobmarshall/cs-interface",
+  "version": "6.1.0",
+  "description": "Adobe CEP CSInterface",
+  "main": "index.js"
+}
